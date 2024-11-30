@@ -11,7 +11,7 @@ setInterval(()=>{
 	let min=d.getMinutes();
 	let sec=d.getSeconds();
 
-	let pg=document.getElementById('p1');
+	let pg=document.getElementById('timer');
 
 	if(date<=9)
 	{
